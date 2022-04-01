@@ -13,6 +13,6 @@ Exercise rules & description: [link](https://exercism.org/tracks/scala/exercises
 5. [Robot Simulator](https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-5)
 
 ##### Extra Scala Coding Challenges
-1. [Pascals Triangle](https://github.com/rafalkac02/dform-scala-academy-exam0-extra-1)
-2. [Matching Brackets](https://github.com/rafalkac02/dform-scala-academy-exam0-extra-2)
-3. [Spiral Ascension](https://github.com/rafalkac02/dform-scala-academy-exam0-extra-3)
+1. [Pascals Triangle](https://github.com/rafalkac02/adform-scala-academy-exam0-extra-1)
+2. [Matching Brackets](https://github.com/rafalkac02/adform-scala-academy-exam0-extra-2)
+3. [Spiral Ascension](https://github.com/rafalkac02/adform-scala-academy-exam0-extra-3)

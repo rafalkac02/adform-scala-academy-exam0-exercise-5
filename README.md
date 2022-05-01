@@ -2,8 +2,32 @@
 
 This is an exercise number 5 from exam conducted after 1st month of Scala Academy at [Adform](https://github.com/adform).
 
-Exercise rules & description: [link](https://exercism.org/tracks/scala/exercises/robot-simulator)
+### Task description
+Write a robot simulator.
 
+A robot factory's test facility needs a program to verify robot movements.
+
+The robots have three possible movements:
+- turn right
+- turn left
+- advance
+
+Robots are placed on a hypothetical infinite grid, facing a particular direction (`north`, `east`, `south`, or `west`) at a set of `{x,y}` coordinates, e.g., `{3,8}`, with coordinates increasing to the `north` and `east`.
+
+The robot then receives a number of instructions, at which point the testing facility verifies the robot's new position, and in which direction it is pointing.
+
+The letter-string `RAALAL` means:
+- Turn right
+- Advance twice
+- Turn left
+- Advance once
+- Turn left yet again
+
+Say a robot starts at `{7, 3}` facing north. Then running this stream of instructions should leave it at `{9, 4}` facing west.
+
+Description adapted from: [source](https://exercism.org/tracks/scala/exercises/robot-simulator)
+
+---
 ### Table of contents
 ##### Scala Coding Problems
 1. [Letter value sum](https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-1)

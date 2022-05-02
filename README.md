@@ -23,7 +23,7 @@ The letter-string `RAALAL` means:
 - Advance once
 - Turn left yet again
 
-Say a robot starts at `{7, 3}` facing `north`. Then running this stream of instructions should leave it at `{9, 4}` facing west.
+Say a robot starts at `{7, 3}` facing `north`. Then running this stream of instructions should leave it at `{9, 4}` facing `west`.
 
 Description adapted from: [source](https://exercism.org/tracks/scala/exercises/robot-simulator)
 
